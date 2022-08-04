@@ -1,5 +1,6 @@
 # Infoware_assignment
-
+#deploy link
+https://infoware-db.herokuapp.com/
 #for register user
 #api
 #post request
