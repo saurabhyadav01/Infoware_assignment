@@ -6,7 +6,7 @@
 
 http://localhost:5000/register
 
-#for register login
+#for  login user
 #api
 #post request
 #pass barrer token
